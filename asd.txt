@@ -1,4 +1,4 @@
 星际争霸
-虫族
-神族
-人族
+zerg
+protoss
+terran
